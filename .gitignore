@@ -1,11 +1,6 @@
 # CAP usbenefits
 _out
-*.db
 *.sqlite
-connection.properties
-default-*.json
-.cdsrc-private.json
-gen/
 node_modules/
 target/
 
@@ -31,4 +26,3 @@ mta_archives/
 # .idea
 
 # @cap-js/cds-typer
-@cds-models
